@@ -3,7 +3,7 @@ if (isset($_POST['login-submit'])) {
 
 $servername = "localhost";
 $username = "root";
-$password = "pm2436";
+$password = "";
 $database = "ecommerce";
 
 
